@@ -68,6 +68,7 @@
         <p><small>In case of <abbr title="No Sense Of Humour">NSOH</abbr> syndrome, please note this website is satirical and should be treated accordingly. Please direct any/all abuse to <a href="http://twitter.com/iamkeir">@iamkeir</a>.</small></p>
       </div><!--/dickclaimer-->
       
+      <!-- Extra disclaimer: this is a satirical website and all opinions are my own. It may or may not also be an April Fool's contribution. -->
       
     <?php else : ?>
       
