@@ -40,7 +40,7 @@
             
             <p>The only hope of avoiding a punch to the face is to vote for no-one. Just put your full name and a cross on the ballot paper.</p>
             
-            <p>Unfortunately, there are enough people who like being punched in the face that their votes will most likely ensure you get a right hook.</p>
+            <p>Unfortunately, there are enough people who like being punched in the face that their votes will most likely ensure you get a right hook. This includes UKIP supporters.</p>
             
             <p>Welcome to democracy.</p>                    
           
